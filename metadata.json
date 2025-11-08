@@ -1,0 +1,5 @@
+{
+  "name": "Confirmation Button App",
+  "description": "A simple web application that displays a confirmation message when a button is clicked, as requested in Korean.",
+  "requestFramePermissions": []
+}
